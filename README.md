@@ -105,3 +105,8 @@ Script that consumes the [Pokéapi](https://pokeapi.co/) and returns pokémon in
 
 You enter a currency code and get actual information about the currency exchange rates.
  
+
+## Email Parsing
+
+An email parsing tool right from the CLI
+
