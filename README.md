@@ -74,11 +74,19 @@ Monitoring earthquakes around the planet using data from [https://earthquake.usg
  ## Google Translate
 
 The script can translate words via Google Translate between different languages. The detailed usage can be found by running the following command:
- `python googletranslate.py -h`
+ >`python googletranslate.py -h`
 
 ## Codechef Submission
 
 An automated codechef submission tool using selenium webdriver. Just provide problem code and name of your submission file and get result of your submission in terminal itself.
 
 
+## World Time
 
+A terminal tool to check the time of anywhere.
+
+> Usage: `python worldtime.py -l <location>`
+
+> i.e.: `python worldtime.py -l Chennai`, 
+
+> the output will be `Chennai, India 2018-02-20 01:27:46`
