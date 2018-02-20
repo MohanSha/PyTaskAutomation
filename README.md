@@ -71,3 +71,9 @@ This is a python script which lets the user download the mp3 type audio file of 
 
 Monitoring earthquakes around the planet using data from [https://earthquake.usgs.gov/](https://earthquake.usgs.gov/).
 
+ ## Google Translate
+
+The script can translate words via Google Translate between different languages. The detailed usage can be found by running the following command:
+ `python googletranslate.py -h`
+
+
