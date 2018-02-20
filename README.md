@@ -28,6 +28,6 @@ A list of scripts to automate your daily tasks
   * I haven't considered all the cases of movie names here. This'll work best if you have a folder of movies with folder names containing only the respective movie name and year of release or just the movie name.
     This script can be improved further by forming a regex to match any folder name and extracting only the movie name from it.
 
-- <b>cleverbot.py</b>
+## Cleverbot
 
-- [x] A chatbot created using cleverbot API.
+A chatbot created using cleverbot API.
