@@ -100,3 +100,8 @@ A web crawler that you feed a starting article and an ending article. The crawle
 Script that consumes the [Pokéapi](https://pokeapi.co/) and returns pokémon info.
 
  > Usage: `python pokeapi.py`
+
+## Exchange Rates
+
+You enter a currency code and get actual information about the currency exchange rates.
+ 
