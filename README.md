@@ -90,3 +90,7 @@ A terminal tool to check the time of anywhere.
 > i.e.: `python worldtime.py -l Chennai`, 
 
 > the output will be `Chennai, India 2018-02-20 01:27:46`
+
+## Wiki Crawler
+
+A web crawler that you feed a starting article and an ending article. The crawler then follows article links until it finds your ending article.
