@@ -32,6 +32,12 @@ A list of scripts to automate your daily tasks
 
 A chatbot created using cleverbot API.
 
-## Full-contact
+## Full Contact
 
 Takes email ID as input and provides information like Full name, address, etc., using FullContact API.
+
+## IPL
+
+Get the ipl updates at every 30 seconds.
+
+
