@@ -94,3 +94,9 @@ A terminal tool to check the time of anywhere.
 ## Wiki Crawler
 
 A web crawler that you feed a starting article and an ending article. The crawler then follows article links until it finds your ending article.
+
+## Pokeapi
+
+Script that consumes the [Pokéapi](https://pokeapi.co/) and returns pokémon info.
+
+ > Usage: `python pokeapi.py`
