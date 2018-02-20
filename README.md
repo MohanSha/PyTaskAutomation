@@ -76,4 +76,9 @@ Monitoring earthquakes around the planet using data from [https://earthquake.usg
 The script can translate words via Google Translate between different languages. The detailed usage can be found by running the following command:
  `python googletranslate.py -h`
 
+## Codechef Submission
+
+An automated codechef submission tool using selenium webdriver. Just provide problem code and name of your submission file and get result of your submission in terminal itself.
+
+
 
