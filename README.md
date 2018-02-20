@@ -43,4 +43,7 @@ Takes email ID as input and provides information like Full name, address, etc., 
 
 Get the ipl updates at every 30 seconds.
 
+## Quora
+
+It enables you to use quora from cmd/terminal/shell. It will ask you to enter any question that you need to search on quora, then according to that it will search some(8-10) relevant questions from which you can select a question and after that it will give you an answer of that question. Lastly it'll ask you whether you want more answers(y/n), if you choose 'y' then it'll redirect you to that Quora page where the question and its answers are present.
 
