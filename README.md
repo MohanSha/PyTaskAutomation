@@ -55,4 +55,8 @@ Wolfram Alpha is an online service that answers factual queries directly by comp
 
 The program takes name of a song then it will open your default web-browser and it will play that song on youtube.
 
+## Kiara
+
+A mini digital assistant to which can give you information like general questions, weather news, math, and wikipedia info of that topic.It has Text-To-Speech feature.
+
 
