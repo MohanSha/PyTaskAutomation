@@ -31,3 +31,7 @@ A list of scripts to automate your daily tasks
 ## Cleverbot
 
 A chatbot created using cleverbot API.
+
+## Full-contact
+
+Takes email ID as input and provides information like Full name, address, etc., using FullContact API.
