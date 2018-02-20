@@ -1,8 +1,10 @@
 # PyTaskAutomation
 A list of scripts to automate your daily tasks
 
-<img src="https://media.giphy.com/media/RPZu7v6zA2WOI/giphy.gif" width="700"/>
+[![Build Status](https://travis-ci.org/arpitx165/Automation-Bots.svg?branch=master)](https://travis-ci.org/arpitx165/Automation-Bots)
 
+
+<img src="https://media.giphy.com/media/RPZu7v6zA2WOI/giphy.gif" width="700"/>
 
 # How to use the files
 1. Make sure you have Python 2.x or 3.x and pip installed on your machine.
