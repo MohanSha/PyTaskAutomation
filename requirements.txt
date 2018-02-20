@@ -2,3 +2,5 @@ tabulate==0.7.7
 requests==2.10.0
 win_unicode_console==0.5
 beautifulsoup4==4.5.3
+colorama==0.3.9
+
