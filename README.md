@@ -108,5 +108,11 @@ You enter a currency code and get actual information about the currency exchange
 
 ## Email Parsing
 
-An email parsing tool right from the CLI
+An email parsing tool right from the CLI.
+
+ <b>Note</b> -
+
+ The codes uses an API key which has been deactivated so you will need to get your own.
+Before running the programs make sure you have installed the libraries or modules.
+
 
