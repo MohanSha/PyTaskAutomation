@@ -59,4 +59,7 @@ The program takes name of a song then it will open your default web-browser and 
 
 A mini digital assistant to which can give you information like general questions, weather news, math, and wikipedia info of that topic.It has Text-To-Speech feature.
 
+## Lorem Ipsum
+
+Generate one paragraph of short lorem ipsum using loripsum.net API.
 
